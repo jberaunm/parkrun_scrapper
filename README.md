@@ -1,4 +1,4 @@
-# parkrun_scrapper
+# Parkrun & Weather conditions Data Collector
 Script in R that enables web scraping data of all Parkruns in London, and it's historic weather conditions.
 
 ## Parkrun data
